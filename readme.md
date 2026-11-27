@@ -11,7 +11,7 @@ EDFでの引き撃ちルートから、攻撃される量や維持できる距�
 
 ## DEMO
 
-![demo](./p1q2.mp4)
+![demo](./R465_r100_q2_vq1_a0_c549.gif)
 
 ## Features
 
